@@ -1,0 +1,20 @@
+.navbar-light .navbar-brand{
+	color: white;
+}
+.collapse .ml-auto .active .nav-link{
+	color: white;
+}
+
+.container .fixed-bottom p{
+	color: white;
+	margin-bottom: 0%;
+}
+html{
+	height: 100%;
+	width: 100%;
+}
+body{
+	text-align: center;
+	background-image: url("./images/intro-bg_1.jpg");
+	background-position: center;
+}

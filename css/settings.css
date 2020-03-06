@@ -1,0 +1,16 @@
+.navbar-light .navbar-brand{
+	color: white;
+}
+.collapse .ml-auto .active .nav-link{
+	color: white;
+}
+
+.container .fixed-bottom p{
+	color: white;
+	margin-bottom: 0%;
+}
+form{
+	padding-top: 5% ;
+	width: 70%;
+	padding-left: 30%;
+}
