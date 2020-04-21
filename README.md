@@ -13,3 +13,14 @@ It is the front end part of an online store which is made up of HTML5 CSS3 and b
 Yet  working on backend is going on will be back with full stack web application :wink:
 
 more products and more work 
+ ## technologies used
+ #### Fornt-end
+ * HTML
+ * CSS 
+ * Bootstrap
+ #### Backend
+ * PHP
+ #### Database
+ * mysql
+ 
+ ##### *Still work on backend is going on! we will be back very soon
