@@ -9,3 +9,7 @@
 
 
 It is the front end part of an online store which is made up of HTML5 CSS3 and bootstrap
+
+Yet  working on backend is going on will be back with full stack web application :wink:
+
+more products and more work 
